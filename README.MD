@@ -9,4 +9,4 @@ Este proyecto implementa un **Editor de Documentos** que permite a los usuarios 
 - **Interfaz de Usuario**: Permite a los usuarios seleccionar una plantilla y crear un nuevo documento basado en ella.
 
 ## Diagrama de Clases del patron prototype
-
+<img src="./PatronPrototype.png"/>

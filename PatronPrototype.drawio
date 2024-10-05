@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0 (Edition std-1)" version="24.7.17">
+  <diagram name="Página-1" id="JvyGy22DY4cgXQ3B6pEU">
+    <mxGraphModel dx="1393" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SN7cC5s7yseXUEPgOjQ7-9" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#E8FCE7;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="320" y="260" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7cC5s7yseXUEPgOjQ7-10" value="&lt;b&gt;CartaPresentacion&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8FCE7;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="320" y="240" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7cC5s7yseXUEPgOjQ7-11" value="+clonar():#documento&lt;div&gt;+editarContenido(string):Void&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#E8FCE7;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="320" y="280" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7cC5s7yseXUEPgOjQ7-12" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#E8FCE7;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="590" y="260" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7cC5s7yseXUEPgOjQ7-13" value="&lt;b&gt;CurriculumVitae&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8FCE7;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="590" y="240" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7cC5s7yseXUEPgOjQ7-14" value="+clonar():#documento&lt;div&gt;+editarContenido(string):Void&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#E8FCE7;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="590" y="280" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7cC5s7yseXUEPgOjQ7-19" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#CFE0CE;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="590" y="60" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7cC5s7yseXUEPgOjQ7-20" value="&lt;b&gt;DOCUMENO&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFE0CE;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="590" y="40" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SN7cC5s7yseXUEPgOjQ7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=block;startFill=0;" parent="1" source="SN7cC5s7yseXUEPgOjQ7-21" target="SN7cC5s7yseXUEPgOjQ7-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="180" />
+              <mxPoint x="430" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SN7cC5s7yseXUEPgOjQ7-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=block;startFill=0;" parent="1" source="SN7cC5s7yseXUEPgOjQ7-21" target="SN7cC5s7yseXUEPgOjQ7-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="150" />
+              <mxPoint x="700" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SN7cC5s7yseXUEPgOjQ7-21" value="+clonar()&lt;div&gt;+editarContenido()&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#CFE0CE;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="590" y="80" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PTHkHTHy4gOPh_Nx1ySl-1" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#E8FCE7;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="860" y="260" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PTHkHTHy4gOPh_Nx1ySl-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="PTHkHTHy4gOPh_Nx1ySl-2" target="SN7cC5s7yseXUEPgOjQ7-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="180" />
+              <mxPoint x="700" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PTHkHTHy4gOPh_Nx1ySl-2" value="&lt;b&gt;Informe&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8FCE7;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="860" y="240" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PTHkHTHy4gOPh_Nx1ySl-3" value="+clonar():#documento&lt;div&gt;+editarContenido(string):Void&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#E8FCE7;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="860" y="280" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PTHkHTHy4gOPh_Nx1ySl-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PTHkHTHy4gOPh_Nx1ySl-5" target="SN7cC5s7yseXUEPgOjQ7-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PTHkHTHy4gOPh_Nx1ySl-5" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="270" y="60" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PTHkHTHy4gOPh_Nx1ySl-6" value="&lt;b&gt;DocumentEditor&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="270" y="40" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PTHkHTHy4gOPh_Nx1ySl-7" value="+crearDocumento(tipo):#Documento" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="220" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
